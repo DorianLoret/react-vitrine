@@ -16,7 +16,7 @@ const Navigation = () => {
           portfolio
           <ul className="nav-projects">
             <NavLink
-              to="/"
+              to="/projet-1"
               className={(nav) => (nav.isActive ? "nav-active hover" : "hover")}
             >
               <li>projet 1</li>
